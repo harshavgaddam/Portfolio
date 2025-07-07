@@ -47,7 +47,7 @@ export function Hero() {
             transition={{ delay: 0.6, duration: 0.8 }}
             className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-gray-600 dark:text-gray-300 font-medium px-4"
           >
-            IT Programmer Analyst / Developer | Apopka, FL
+            Software Developer | Apopka, FL
           </motion.h2>
 
           {/* Description */}

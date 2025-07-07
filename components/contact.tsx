@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from 'framer-motion'
-import { Mail, Phone, MapPin, Linkedin, Github, Send, MessageCircle, User, Calendar } from 'lucide-react'
+import { Mail, Linkedin, Github, Send, MessageCircle, User, Calendar } from 'lucide-react'
 
 export function Contact() {
   const contactInfo = [
@@ -11,20 +11,6 @@ export function Contact() {
       value: 'gaddam.harsha21@gmail.com',
       href: 'mailto:gaddam.harsha21@gmail.com',
       description: 'Send me an email'
-    },
-    {
-      icon: Phone,
-      label: 'Phone',
-      value: '(448) 500-8082',
-      href: 'tel:4485008082',
-      description: 'Call or text me'
-    },
-    {
-      icon: MapPin,
-      label: 'Location',
-      value: 'Apopka, FL 32703',
-      href: '#',
-      description: 'Based in Florida'
     }
   ]
 
