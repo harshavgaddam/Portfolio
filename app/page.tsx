@@ -45,7 +45,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="glass-card max-w-md mx-auto">
             <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400">
-              © 2024 Harsha Vardhan Gaddam. Built with Next.js, Tailwind CSS, and Framer Motion.
+              © 2025 Harsha Vardhan Gaddam. Built with Next.js, Tailwind CSS, and Framer Motion.
             </p>
           </div>
         </div>
